@@ -143,6 +143,19 @@ header .topend p {
 }
 /* fine chiusura header */
 
+.stickers {
+  position: fixed;
+  right: 100px;
+  top: 890px;
+  color:white;
+  background-color: green;
+  z-index: 99999;
+  padding: 10px 12px 24px;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  font-size: 15px;
+}
+
 /* regole colonne riga main prima */
 main .colonnato {
   width: 1340px;
