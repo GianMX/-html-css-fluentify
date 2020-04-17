@@ -156,6 +156,11 @@ header .topend p {
   font-size: 15px;
 }
 
+.stickers:hover {
+  color:red;
+  cursor: pointer;
+}
+
 /* regole colonne riga main prima */
 main .colonnato {
   width: 1340px;
