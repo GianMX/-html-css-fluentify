@@ -26,6 +26,10 @@ body {
   font-family: cursive;
 }
 
+main {
+  margin-bottom: 100px;
+}
+
 /* FINE REGOLE GENERALI */
 
 /* sezione navigation bar */
@@ -208,9 +212,50 @@ main .coda .esperienza p {
   padding-bottom: 10px;
 }
 
-main .coda .esperienza a {
+/* fine regole colonna riga main ultima */
 
+
+/* inizio regole footer */
+footer {
+  width: 100%;
+  margin: auto;
+  background-color: lightgrey;
+  height: 120px;
+  display: inline-block;
+}
+
+footer .footer {
+  margin-top: 30px;
+}
+
+footer .footer .titolobase {
+  float: left;
+  width: 30%;
+}
+
+footer .footer .selettorebase {
+  float: right;
+  width: 30%;
+}
+
+footer .footer .selettorebase span {
+  color: grey;
+}
+
+option .box {
+  color:grey;
+}
+
+footer .footer .selettorebase a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: green;
+  padding: 15px 12px;
+  border-radius: 8px;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 10px;
 }
 
 
-/* fine regole colonna riga main ultima */
+/* fine regole footer */
