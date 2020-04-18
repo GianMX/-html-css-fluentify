@@ -43,6 +43,11 @@ header {
   background-position: 107% 100%;
 }
 
+header .logo {
+  vertical-align: middle;
+  padding-top: 5px;
+}
+
 header .menu {
   padding-top: 15px;
 }
