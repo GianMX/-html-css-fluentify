@@ -264,6 +264,7 @@ footer .footer .selettorebase {
 
 footer .footer .selettorebase span {
   color: grey;
+  margin-right: 20px;
 }
 
 footer .footer .selettorebase span select option.box {
