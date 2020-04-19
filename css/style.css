@@ -225,8 +225,8 @@ main .coda .esperienza {
   float: left;
   width: 40%;
   margin: auto;
-  padding-left: 100px;
-  margin-top: 100px;
+  padding-left: 120px;
+  margin-top: 130px;
 }
 
 main .coda .esperienza p {
@@ -289,6 +289,8 @@ footer .footer .selettorebase a {
 
 select {
   background-color: lightgrey;
+  border: none;
+  border-bottom: 1px solid grey;
 }
 
 footer .footer .selettorebase a:hover {
