@@ -150,10 +150,10 @@ header .topend p {
 
 .stickers {
   position: fixed;
-  right: 100px;
+  right: 250px;
   top: 890px;
   color:white;
-  background-color: green;
+  background-color: #66ff33;
   z-index: 99999;
   padding: 10px 12px 24px;
   border-top-left-radius: 7px;
